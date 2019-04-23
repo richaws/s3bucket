@@ -1,2 +1,2 @@
 # s3bucket
-Terraform S3 bucket automatoin Iaas with read / write access to Reshift AWS cluster for Big Data column base queries.
+A terraform redshift cluster with IAM role that allows read/write access to an S3 bucket for Input parameter
